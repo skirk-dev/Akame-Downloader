@@ -49,7 +49,7 @@ Por favor, sigue el código de conducta y las buenas prácticas de GitHub para m
 
 ## Autor ✒️
 
-Este proyecto ha sido creado por _Henry Pacheco_, un apasionado/a de la programación.
+Este proyecto ha sido creado por _Henry Pacheco_, un apasionado de la programación.
 
 ## Licencia 📄
 
